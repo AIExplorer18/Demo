@@ -28,8 +28,19 @@ s1 = Student("hassan", 12, "d")
 print(s1.display_info())
 ```
 # 🖨 Output
-
+```
 Name: hassan 
 Age: 12
 Grade: d
+```
+#
+📁 How to Run
+1. Make sure Python is installed on your system.
 
+2.Copy the code into a file named student.py.
+
+3. Run the file in your terminal or command prompt:1
+
+ ```
+python main.py
+```  
