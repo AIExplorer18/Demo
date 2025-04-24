@@ -5,7 +5,7 @@ It includes a simple example of a Python class named `Student` that stores and d
 
 ## 🧠 What This Code Does
 
-- Defines a `Student` class with attributes:
++ Defines a `Student` class with attributes:
   - `name`
   - `age`
   - `grade`
@@ -14,7 +14,7 @@ It includes a simple example of a Python class named `Student` that stores and d
 
 ## 🧾 Code Example
 
-```python
+```
 class Student:
     def __init__(self, name, age, grade):
         self.name = name
@@ -26,3 +26,10 @@ class Student:
 
 s1 = Student("hassan", 12, "d")
 print(s1.display_info())
+```
+# 🖨 Output
+
+Name: hassan 
+Age: 12
+Grade: d
+
